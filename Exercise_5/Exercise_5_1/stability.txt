@@ -1,0 +1,6 @@
+bubble sort:stable
+selection sort:not stable
+//insertion sort:stable
+quick sort:not stable
+heap sort:not stable
+merge sort:stable
