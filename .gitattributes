@@ -1,0 +1,2 @@
+*.in linguist-language=C++ 
+*.out linguist-language=C++
